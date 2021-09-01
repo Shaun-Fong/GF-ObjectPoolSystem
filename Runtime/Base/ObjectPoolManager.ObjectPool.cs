@@ -10,7 +10,7 @@ using System.Collections.Generic;
 
 namespace GF.ObjectPoolSystem
 {
-    internal sealed partial class ObjectPoolManager : GameFrameworkModule, IObjectPoolManager
+    public sealed partial class ObjectPoolManager : GameFrameworkModule, IObjectPoolManager
     {
         /// <summary>
         /// 对象池。

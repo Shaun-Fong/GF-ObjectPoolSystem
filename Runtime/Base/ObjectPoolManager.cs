@@ -13,7 +13,7 @@ namespace GF.ObjectPoolSystem
     /// <summary>
     /// 对象池管理器。
     /// </summary>
-    internal sealed partial class ObjectPoolManager : GameFrameworkModule, IObjectPoolManager
+    public sealed partial class ObjectPoolManager : GameFrameworkModule, IObjectPoolManager
     {
         private const int DefaultCapacity = int.MaxValue;
         private const float DefaultExpireTime = float.MaxValue;

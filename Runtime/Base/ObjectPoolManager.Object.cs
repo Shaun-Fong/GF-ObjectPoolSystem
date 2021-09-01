@@ -9,7 +9,7 @@ using System;
 
 namespace GF.ObjectPoolSystem
 {
-    internal sealed partial class ObjectPoolManager : GameFrameworkModule, IObjectPoolManager
+    public sealed partial class ObjectPoolManager : GameFrameworkModule, IObjectPoolManager
     {
         /// <summary>
         /// 内部对象。
