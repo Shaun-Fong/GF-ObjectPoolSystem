@@ -1,7 +1,7 @@
 {
   "name": "gameframework.objectpoolsystem",
   "displayName": "GF-ObjectPoolSystem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2020.3",
   "unityRelease": "10f1",
   "description": "ObjectPoolSystem Of GameFramework",
