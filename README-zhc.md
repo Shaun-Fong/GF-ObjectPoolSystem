@@ -1,6 +1,6 @@
 # GF-ObjectPoolSystem
 
-ObjectPoolSystem Of GameFramework
+GameFramework框架的对象池系统
 
 [EnglishDoc](README.md)
 
